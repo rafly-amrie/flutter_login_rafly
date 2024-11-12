@@ -51,9 +51,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/rafly/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-4.0.0",
+      "rootUri": "file:///C:/Users/rafly/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.5"
     },
     {
       "name": "flutter_test",
@@ -81,9 +81,9 @@
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/rafly/AppData/Local/Pub/Cache/hosted/pub.dev/lints-4.0.0",
+      "rootUri": "file:///C:/Users/rafly/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.5"
     },
     {
       "name": "matcher",
@@ -170,7 +170,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-11-12T07:10:22.911230Z",
+  "generated": "2024-11-12T09:50:55.865257Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/Users/rafly/dev/flutter",
