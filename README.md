@@ -1,5 +1,14 @@
 # flutter_login_rafly
 
+# Installation
+1. flutter clean
+2. flutter pub get
+3. flutter run
+
+# Information
+- Uname : emilys
+- Pwd : emilyspass
+
 A new Flutter project.
 
 ## Getting Started
