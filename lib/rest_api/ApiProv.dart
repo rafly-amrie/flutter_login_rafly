@@ -106,7 +106,7 @@ class ApiProv with ChangeNotifier {
         BaseHelper.saveStringToPref(BaseHelper.varPrefAccessToken, data['accessToken']);
         BaseHelper.saveStringToPref(BaseHelper.varPrefRefreshToken, data['refreshToken']);
 
-        Get.offAll(() => HomeScr(),
+        Get.offAll(() => gHomeScr(),
           transition: Transition.zoom,
           duration: const Duration(milliseconds: 1750),
         );
